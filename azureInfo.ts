@@ -1,0 +1,1 @@
+export type AzureInfo = [LanguageApiUrl: string, SentimentApiUrl: string, SubscriptionKey: string];
