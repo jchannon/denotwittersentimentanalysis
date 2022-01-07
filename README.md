@@ -4,7 +4,7 @@ This little app analyzes the sentiment of the last 10 tweets from a Twitter user
 
 It is built with [Typescript](https://www.typescriptlang.org/) and [Deno](https://deno.land/) so please take a look at the code
 
-##How to run
+## How to run
 
 You'll need a Twitter Dev Account and an Azure account with a Cognitive Services resource setup.
 
