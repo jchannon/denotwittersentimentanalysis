@@ -19,6 +19,8 @@ Once the environment variables are set, you can run the app with:
 
 `deno run --allow-read --allow-env --allow-net mod.ts`
 
+It will ask you to enter the Twitter user's handle eg "jchannon".
+
 The output you will see, depending on sentiment, possible values being, positive, neutral, negative, is:
 ```
 You tweets average neutral sentiment!
